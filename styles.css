@@ -1,0 +1,207 @@
+body {
+    background-color: #d1ddec;
+}
+
+section {
+    margin: 20px 100px;
+    padding: 20px 20px;
+}
+
+/* Header */
+
+header {
+    margin: 20px 150px;
+    font-size: 32px;
+    font-family: "livvic";
+    font-weight: 800;
+}
+
+
+
+/* Color Section */
+.colors {
+    width: auto;
+    height: 300px;
+    border: 3px solid #2f4f4f;
+    background-color: #bbc4cf;
+    overflow: hidden;
+}
+
+.colorblocks {
+    width: auto;
+
+}
+
+.colors h2 {
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+.colors .darkgrey {
+    height: 165px;
+    width: 24%;
+    background-color: #233142;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 24px;
+    padding-top: 35px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.colors .bluegrey {
+    height: 165px;
+    width: 24%;
+    background-color: #455d7a;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 24px;
+    padding-top: 35px;
+    display: inline-block;
+
+}
+
+.colors .hotred {
+    height: 165px;
+    width: 24%;
+    background-color: #f95959;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-size: 24px;
+    padding-top: 35px;
+    display: inline-block;
+}
+
+.colors .lightgrey {
+    height: 165px;
+    width: 24%;
+    background-color: #e3e3e3;
+    color: black;
+    text-align: center;
+    line-height: 32px;
+    font-size: 24px;
+    padding-top: 35px;
+    display: inline-block;
+}
+
+
+/* Font Section */
+
+.fonts {
+    width: auto;
+    height: 290px;
+    border: 3px solid #2f4f4f;
+    background-color: #bbc4cf;
+    overflow: auto;
+}
+
+.fonts h2 {
+    text-decoration: underline;
+}
+
+#josefin,
+#livvic {
+    line-height: 25px;
+}
+
+.fontbox {
+    display: inline-block;
+    padding: 15px;
+    width: 28%;
+}
+
+.josefin-sans-label {
+    font-family: "Josefin Sans";
+    text-decoration: underline;
+}
+
+.josefin-sans-reg {
+    font-family: "Josefin Sans";
+}
+
+.josefin-sans-bold {
+    font-family: "Josefin Sans";
+    font-weight: 700;
+}
+
+.josefin-sans-italic {
+    font-family: "Josefin Sans";
+    font-style: italic;
+}
+
+.saira-label {
+    font-family: "saira";
+    text-decoration: underline;
+}
+
+.saira-reg {
+    font-family: "saira";
+}
+
+.saira-bold {
+    font-family: "saira";
+    font-weight: 700;
+}
+
+.saira-italic {
+    font-family: "saira";
+    font-style: italic;
+}
+
+.livvic-label {
+    font-family: "livvic";
+    text-decoration: underline;
+}
+
+.livvic-reg {
+    font-family: "livvic";
+}
+
+.livvic-bold {
+    font-family: "livvic";
+    font-weight: 700;
+}
+
+.livvic-italic {
+    font-family: "livvic";
+    font-style: italic;
+}
+
+/* Text Styles Section */
+
+.text-styles {
+    width: auto;
+    height: 300px;
+    border: 3px solid #2f4f4f;
+    background-color: #bbc4cf;
+    text-decoration: underline;
+    overflow: auto;
+}
+
+.stylebox {
+    display: inline-block;
+    margin: 10px 60px;
+    line-height: 35px;
+
+}
+
+.h1ex {
+    font-size: 32px;
+    font-family: livvic;
+    font-weight: 800;
+}
+
+.h2ex {
+    font-size: 24px;
+    font-family: saira;
+    font-weight: 500px;
+}
+
+.para {
+    font-size: 16px;
+    font-family: "josefin sans";
+    font-weight: 400;
+}
